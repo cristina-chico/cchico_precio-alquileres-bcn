@@ -21,3 +21,5 @@ Formatos reutilizables: Los datos están disponibles en formatos que puedes impo
 Actualización y oficialidad: Al ser el servicio oficial del Ayuntamiento, aseguras que la base estadística de tu modelo sea fiable
 .
 Como complemento a estos datos públicos, las fuentes sugieren que podrías cruzar esta información con datos de mercado provenientes de idealista/data, que ofrece tecnología específica para el análisis inmobiliario profesional
+
+Jsons por poblacion: https://opendata-ajuntament.barcelona.cat/data/ca/dataset/pad_mdbas
